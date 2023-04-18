@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ellagale. I'm an academic at the University of Bristol. My career has been working across chemistry and computer science.
 - 👀 I’m interested in machine learning/artifical intelligence, design of experiments, digital chemistry, virtual reality.
 - 🌱 I’m currently learning Unity and making 3D games.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can find my work email with a little googling!
 
 <!---
